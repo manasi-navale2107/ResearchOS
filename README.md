@@ -39,7 +39,7 @@ Final Research Report
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/ResearchOS.git
+git clone https://github.com/manasi-navale2107/ResearchOS.git
 
 cd ResearchOS
 
